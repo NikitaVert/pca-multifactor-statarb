@@ -108,7 +108,8 @@ Read alongside the two earlier strategies, this is a controlled experiment rathe
 
 The conclusion the evidence supports: **monthly-horizon residual momentum on individual large-cap US equities does not carry a tradeable edge, and this holds regardless of the choice of stock or the sophistication of the hedge.** The framework is sound, its neutrality is demonstrated and robust out-of-sample, and the honest finding is a negative one — which is what rigorous testing exists to produce.
 
-![clipboard.png](../../../../../../private/var/folders/64/8c76lfjs7kq52sph54q_1bwc0000gn/T/clipboard.png)
+<img width="931" height="449" alt="image" src="https://github.com/user-attachments/assets/c9c2ad00-7825-4e71-a845-eedbe0c62d63" />
+
 
 ## Limitations and next steps
 
